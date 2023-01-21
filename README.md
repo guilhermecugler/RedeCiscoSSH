@@ -8,7 +8,7 @@
 👉 <b>(UBUNTU 18)</b>
 
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/guilhermecugler/RedeCiscoSSH/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/guilhermecugler/RedeCiscoSSH/main/ubuinst.sh)
 ```
 </br>
 
@@ -19,7 +19,7 @@ RedeCisco
 
 # 𓊈𒆜 SINCRONIZAR NA VPS SSH! 𒆜𓊉
 ```
-apt install wget -y; bash <(wget -qO- https://raw.githubusercont.com/guilhermecugler/RedeCiscoSSH/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercont.com/guilhermecugler/RedeCiscoSSH/main/sincpainel.sh)
 ```
 
 # 𓊈𒆜 SCRIPT COM CHECKUSER CONECTA4G! 𒆜𓊉
